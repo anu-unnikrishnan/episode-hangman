@@ -1,5 +1,5 @@
 
-GUIDE TO EPISODE HANGMAN.
+Guide to Episode Hangman.
 -------------------------
 
 This repository contains Python code for Episode Hangman.
